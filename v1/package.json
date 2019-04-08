@@ -1,22 +1,22 @@
 {
   "name": "insults",
   "version": "1.0.0",
-  "description": "Version 1 of the wonderful Shakespeare Insult Flinger",
+  "description": "La primera version del lab del curso CSA Professional Shakespeare Insult Flinger",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"Error: no se ha especificado el test\" && exit 1",
     "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/scottpletcher/aws-csa-pro.git"
+    "url": "git+https://github.com/lmtbelmonte/lmt-insult-engine.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/scottpletcher/aws-csa-pro/issues"
+    "url": "https://github.com/lmtbelmonte/lmt-insult-engine/issues"
   },
-  "homepage": "https://github.com/scottpletcher/aws-csa-pro#readme",
+  "homepage": "https://github.com/lmtbelmonte/lmt-insult-engine/blob/master/README.md",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
